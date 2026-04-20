@@ -80,7 +80,7 @@ Adiciona camadas estratégicas :
 
 ## 📥 Prompts
 
-Básico (Versão 1.0)
+# Básico (Versão 1.0)
 
 ## PROMPT – Assistente Funcional de Vendas Loja Gamer (Entende e Sugere)
 
@@ -169,7 +169,7 @@ ou
 - Cliente reclama de lentidão → sugerir RAM
 - Cliente quer melhorar setup → sugerir periféricos
 
-Principal (Versão 2.0)
+# Principal (Versão 2.0)
 
 ## PROPMT – Assistente Consultivo de Vendas Loja Gamer (Analisa, Influencia e Fecha)
 
