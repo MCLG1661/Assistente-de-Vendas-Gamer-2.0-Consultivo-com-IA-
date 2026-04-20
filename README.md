@@ -243,7 +243,7 @@ Crie perguntas objetivas para destravar a venda :
 
 ---
 
-### F) Estratégia de upsell
+### F) Estratégia de Upsell
 - Sugira upgrade (se fizer sentido)
 - Explique quando usar
 - Como apresentar sem parecer forçado
