@@ -306,7 +306,7 @@ Gere uma mensagem final :
 
 1. Input do cliente :
 
-"Filho quer um notebook para estudar, mas também quer jogar"
+"Filho quer comprar um notebook para estudar, porém é a mãe dele que vai comprar o notebook, ele também tem secretamente o desejo de usar o notebook para jogar"
 
 Saída gerada (resumo) :
 
