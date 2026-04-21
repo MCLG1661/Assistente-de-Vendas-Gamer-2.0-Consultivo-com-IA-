@@ -303,16 +303,18 @@ Gere uma mensagem final :
 ---
 
 ## 💡 Exemplo de Uso
-Input do cliente :
+
+1. Input do cliente :
 
 "Filho quer um notebook para estudar, mas também quer jogar"
 
 Saída gerada (resumo) :
 
-Classificação: Misto (tendência High Ticket)
-Perfil: Racional (decisor: mãe)
-Estratégia: justificar investimento com durabilidade
-Oferta: notebook com desempenho intermediário-alto
+Classificação : Misto (tendência High Ticket)
+Perfil : Racional (decisor: mãe)
+Estratégia : justificar investimento com durabilidade
+Oferta : notebook com desempenho intermediário-alto
+
 💬 Mensagem gerada :
 
 "Oi! Pelo que você comentou, o ideal é um notebook que atenda bem os estudos, mas que também não deixe ele limitado caso queira usar pra outras coisas como jogos.
@@ -320,6 +322,25 @@ Oferta: notebook com desempenho intermediário-alto
 Tem modelos que parecem mais baratos no início, mas acabam travando rápido e gerando dor de cabeça. Por isso, recomendo uma opção que já tenha um desempenho melhor, assim você evita ter que trocar tão cedo.
 
 Se quiser, me fala uma faixa de investimento que você pensou que eu te indico a melhor opção dentro disso 👍"
+
+2. Input do cliente :
+
+"Uma mulher, deseja começar a usar as redes sociaisde maneira profissional e usa um aparelho para edição de vídeo e trabalho"
+
+Saída gerada (resumo) :
+
+- Classificação : High Ticket provável
+- Perfil : Híbrido (crescimento + necessidade prática)
+- Estratégia: foco em produtividade e crescimento profissional
+- Oferta : notebook de alto desempenho
+
+💬 Mensagem gerada :*
+
+"Oi! Pra trabalhar com redes sociais e edição de vídeo, o mais importante é ter um equipamento que te permita produzir com fluidez, sem travamentos, principalmente conforme seus projetos forem evoluindo.
+
+Tem opções que até funcionam no começo, mas acabam limitando seu crescimento. O ideal é já começar com um equipamento que acompanhe sua evolução e te dê mais produtividade no dia a dia.
+
+Se quiser, me fala uma faixa de investimento que você pensou que eu te indico a melhor opção pra isso 👍"
 
 ---
 
